@@ -1,1 +1,2 @@
 # Space-Demo-Code-Edit
+Space Demo is a JavaScript game from the Week 5 Lab of South Puget Sound Community College's CIS 269 class taught by Michael Haensel during the Spring Quarter of 2023. In it I made code edit's that adjusted the update() function so the player could wrap around the screen instead of stopping at the left/right edge and fixed the code so that the player would move at the same speed in both directions.
